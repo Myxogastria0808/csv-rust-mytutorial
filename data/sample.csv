@@ -1,0 +1,6 @@
+string,integer,float,boolean
+"foo",1,1.011342344345,true
+"bar",2,2.04234234,false
+"baz",3,123.0321,true
+"おはよう",4,0.0000000001,false
+"quux",5,0.4324356,true
